@@ -1,2 +1,4 @@
-# dataImbalance
-Code Associated with IGARSS 2018 Submission (and continuing work). Created 01/04/2018
+# Handing Data Imbalances for Sonar Image Classification
+*Coming Soon*
+
+This python code is associated with our submitted work to IGARSS 2018. Code will be posted soon! (No later than 2/1/2018)
